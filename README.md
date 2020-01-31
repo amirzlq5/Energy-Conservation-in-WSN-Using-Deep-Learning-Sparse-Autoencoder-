@@ -17,4 +17,4 @@ This dataset includes information on tree type, shadow coverage, distance to nea
 
 I trained the model 800 epoch. And we got the rebuilding accuracy of 71.1. You can do 10,000 training epoch and achieve 95 reconstruction accuracy.
 
-I used colab for training. You can use [link] (https://colab.research.google.com/drive/1ZJY8UhbpFyvnxvGz3-2X6XSspCaQHHBH#scrollTo=rPmgir8isi5b) to access the code at colab. And make the model stronger.
+I used colab for training. You can use [link](https://colab.research.google.com/drive/1ZJY8UhbpFyvnxvGz3-2X6XSspCaQHHBH#scrollTo=rPmgir8isi5b) to access the code at colab. And make the model stronger.
