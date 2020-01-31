@@ -14,3 +14,5 @@ This dataset includes information on tree type, shadow coverage, distance to nea
 
 ## Test and Train Accuracy
 ![GitHub Logo](https://github.com/khaniamir/Energy-Conservation-in-WSN-Using-Deep-Learning-Sparse-Autoencoder-/blob/master/test%20acc.png)
+
+I trained the model 800 epoch. And we got the rebuilding accuracy of 71.1. You can do 10,000 training epoch and achieve 95 reconstruction accuracy.
