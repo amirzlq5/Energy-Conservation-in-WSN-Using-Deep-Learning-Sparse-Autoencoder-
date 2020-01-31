@@ -13,4 +13,4 @@ This dataset includes information on tree type, shadow coverage, distance to nea
 ![GitHub Logo](https://github.com/khaniamir/Energy-Conservation-in-WSN-Using-Deep-Learning-Sparse-Autoencoder-/blob/master/model.png)
 
 ## Test and Train Accuracy
-![GitHub Logo](https://github.com/khaniamir/Energy-Conservation-in-WSN-Using-Deep-Learning-Sparse-Autoencoder-/blob/master/model.png)
+![GitHub Logo](https://github.com/khaniamir/Energy-Conservation-in-WSN-Using-Deep-Learning-Sparse-Autoencoder-/blob/master/test%20acc.png)
